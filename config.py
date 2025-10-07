@@ -1,2 +1,2 @@
 print(f"config.py")
-print("version 1.0.0")
+print("version 12")
